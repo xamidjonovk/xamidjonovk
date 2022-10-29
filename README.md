@@ -1,7 +1,5 @@
 - 👋 Hi, I’m: Komiljon Xamidjonov ( guthub.com/xamdjonovk )
-- 👀 I’m interested in: python, AI, Machine Learning, Fullstack web development
-- 🌱 I’m currently learning: Copmputer Vision AI, Frontend web development 
-
+- 👀 I’m Python Developer and have experience in Backend and Data Science
 - 📫 How to reach me:  telegram: @komiljon_xamidjonov,  gmail:xamidjonovk@gmail.com
 
 <!---
