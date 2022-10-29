@@ -1,4 +1,5 @@
-- 👋 Hi, I’m: Komiljon Xamidjonov ( guthub.com/xamdjonovk )
+- 👋 Hi, I’m: Komiljon Xamidjonov ( guthub.com/xamdjonovk ) 
+- My Real Projects are in Gitlab (secure account)
 - 👀 I’m Python Developer and have experience in Backend and Data Science
 - 📫 How to reach me:  telegram: @komiljon_xamidjonov,  gmail:xamidjonovk@gmail.com
 
